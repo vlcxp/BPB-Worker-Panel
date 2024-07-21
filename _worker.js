@@ -11,7 +11,7 @@ let userID = '5645d61f-b683-4100-b502-2cb07e40924b';
 
 // https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
 // https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
-const proxyIPs= ['8.212.43.8','119.28.59.142','119.28.59.140','45.40.59.195'];
+const proxyIPs= ['61.160.148.90','8.212.43.8','119.28.59.142','119.28.59.140','45.40.59.195'];
 
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
